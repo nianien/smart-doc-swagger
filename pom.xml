@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.nianien</groupId>
     <artifactId>smart-doc-swagger</artifactId>
-    <packaging>pom</packaging>
-    <version>3.0.0</version>
+    <packaging>jar</packaging>
+    <version>3.0.0u1</version>
     <name>smart-doc</name>
     <url>https://github.com/nianien/smart-doc-swagger.git</url>
     <description>Smart-doc compatible for swagger</description>
